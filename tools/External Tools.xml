@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\dbroj\dev\ISS\phoenix-spa\node_modules\.bin\prettier.cmd" />
+      <option name="PARAMETERS" value="--single-quote --use-tabs --semi --write $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
