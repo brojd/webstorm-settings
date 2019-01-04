@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*PDF*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +20,7 @@
     <mask>*Selectors.ts</mask>
     <mask>*Saga.test.ts</mask>
     <mask>*.scss</mask>
-    <mask>*PDF*</mask>
     <mask>*.tsx</mask>
+    <mask>*PDF*</mask>
   </component>
 </application>
