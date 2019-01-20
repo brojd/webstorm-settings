@@ -20,9 +20,9 @@
     <mask>*.tsx</mask>
     <mask>*PDF*</mask>
     <mask>*Types*</mask>
-    <mask>*selector*</mask>
     <mask>*scss*</mask>
     <mask>*service*</mask>
     <mask>*saga*</mask>
+    <mask>*selector*</mask>
   </component>
 </application>
